@@ -30,19 +30,18 @@
 
 ---
 
-<!-- About Me GIF + Text -->
-<img align="right" alt="Data Science GIF" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd5OGNmbDRkMzYxbnFyaGFvcnF3cGVzN3J6MDI2bm1rcHJ1NjlzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
 ## 👨‍💻 About Me
 
+<table> <tr> <td valign="top" width="60%">
+ 
 ```python
 harshith = {
     "role"     : "Data Scientist | AI/ML Engineer",
-    "location" : "NY, USA 🗽",
+    "location" : "NY, USA",
     "education": "MS Computer Science @ University at Buffalo",
     "experience": "2.5 years in industry",
     "domains"  : ["Fleet Telematics", "Healthcare", "Finance"],
-    "passion"  : "Building that's powerful & explainable AI systems",
+    "passion"  : "Building powerful & explainable AI systems",
     "superpower": "End-to-end Data & ML pipelines from raw to prod",
     "contact"  : "harshithbhattaram@gmail.com"
 }
@@ -52,8 +51,8 @@ harshith = {
 - 🌱 Currently exploring **LangGraph**, **Fine-tuning LLMs**, and **MLOps**
 - 🧠 Passionate about making black-box models **interpretable**
 - ⚡ Fun fact: I reduced vehicle downtime by **18%** with ML at scale
+</td> <td valign="top" width="40%" align="center"> <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="320" alt="Coding GIF"/> </td> </tr> </table>
 
-<br clear="right"/>
 
 ---
 
