@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20%20I'm%20Harshith%20Bhattaram&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%2FML%20Enthusiast&descAlignY=60&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20%20I'm%20Harshith%20Bhattaram&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Data%20Science%20Enthusiast&descAlignY=60&descSize=20" width="100%"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -36,10 +36,10 @@
  
 ```python
 harshith = {
-    "role"     : "Data Scientist | AI/ML Engineer",
+    "role"     : "ML Engineer",
     "location" : "NY, USA",
     "education": "MS Computer Science @ University at Buffalo",
-    "experience": "2.5 years in industry",
+    "experience": "3+ years in production",
     "domains"  : ["Fleet Telematics", "Healthcare", "Finance"],
     "passion"  : "Building powerful & explainable AI systems",
     "superpower": "End-to-end Data & ML pipelines from raw to prod",
@@ -47,10 +47,7 @@ harshith = {
 }
 ```
 
-- 🔭 Working on **Multimodal RAG** and **Explainable AI** systems
-- 🌱 Currently exploring **LangGraph**, **Fine-tuning LLMs**, and **MLOps**
-- 🧠 Passionate about making black-box models **interpretable**
-- ⚡ Fun fact: I reduced vehicle downtime by **18%** with ML at scale
+
 </td> <td valign="top" width="40%" align="center"> <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="320" alt="Coding GIF"/> </td> </tr> </table>
 
 
@@ -59,7 +56,7 @@ harshith = {
 ## 💼 Professional Experience
 
 <details open>
-<summary><b>🏢 LocoNav Fleet Management Solutions — Software Engineer (Data Scientist)</b> &nbsp; <code>Jun 2022 – Jun 2024</code></summary>
+<summary><b>🏢 LocoNav Fleet Management Solutions — Software Engineer (Machine Learning Engineer)</b> &nbsp; <code>Jun 2022 – Jun 2024</code></summary>
 
 <br/>
 
@@ -70,21 +67,21 @@ harshith = {
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-00B4D8?style=flat-square&logo=camera&logoColor=white)
 
-- 🎯 Built **driver drowsiness & intoxication classifier** on 10k+ video frames → **87% accuracy**
-- 📉 Reduced **false negatives by 25%** via facial landmark tracking + yawn-angle alertness modeling
-- ⚡ Cut model inference **latency by 20%** with an optimized production alert pipeline
+- 🎯 Deployed and optimized YOLOv8 and XGBoost **drowsiness detection pipeline**
+- ⚡ Built and containerized inference service with Docker and DeepStream SDK
+- ⚡ Setup MLflow model registry and DVC based dataset versioning for staged model rollouts
 
 ---
 
 > **ETA Prediction & Route Optimization**
 
 ![XGBoost](https://img.shields.io/badge/XGBoost-137CBD?style=flat-square&logo=python&logoColor=white)
-![LSTM](https://img.shields.io/badge/LSTM-FF6384?style=flat-square&logo=keras&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LSTM-FF6384?style=flat-square&logo=keras&logoColor=white)
 ![GPS Analytics](https://img.shields.io/badge/GPS%20Telematics-34A853?style=flat-square&logo=googlemaps&logoColor=white)
 ![Graph Algorithms](https://img.shields.io/badge/Graph%20Optimization-8B5CF6?style=flat-square&logo=graphql&logoColor=white)
 
-- 📦 Developed **GBM + LSTM ETA models** on 50k+ trips → **15% improved forecast accuracy**
-- 🗺️ Graph-based route optimizer with real-time traffic → **12% reduction in avg trip duration**
+- 📦 Integrated a **LightGBM ETA model into a real time inference pipeline** using Kafka telemetry and OSRM route features
+- 🔧 Built and scaled the model serving layer using FastAPI, Redis, Kubernetes, with CI/CD pipelines via GitHub
 
 ---
 
@@ -95,8 +92,8 @@ harshith = {
 ![Time Series](https://img.shields.io/badge/Time%20Series-0EA5E9?style=flat-square&logo=apacheairflow&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-- 🔧 Built predictive maintenance pipeline from **time-series telemetry** → **85% precision**
-- 📉 Reduced **unplanned vehicle downtime by 18%** with automated ML alert integration
+- 🔧 Built predictive maintenance pipeline and trained a LightGBM failure-prediction model on time-windowed IoT sensor features
+- ⚡ Deployed ML scoring service with Kubernetes canary rollouts.
 
 </details>
 
@@ -238,27 +235,6 @@ harshith = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=maniharshith68&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maniharshith68&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=maniharshith68&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=maniharshith68&theme=tokyonight&no-frame=true&row=1&column=7" width="100%"/>
-</div>
-
----
-
 ## 🎯 What I Bring to the Table
 
 <div align="center">
@@ -274,28 +250,6 @@ harshith = {
 
 ---
 
-## 🌊 Activity Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=maniharshith68&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</div>
-
----
-
-## 💡 Dev Quote
-
-<div align="center">
-
-> *"In God we trust. All others must bring data."*
-> — **W. Edwards Deming**
-
-<br/>
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJiaDZvcWt6bHppeHY4b3dkZzFycjNvbHFkb3FhN2kxbnFmczZtZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="300"/>
-
-</div>
-
----
 
 ## 📬 Connect With Me
 
