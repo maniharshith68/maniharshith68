@@ -39,6 +39,7 @@ harshith = {
     "currently"  : "Fine-tuning speech recognition models @ Vosyn",
     "previously" : "Backend & production ML @ LocoNav (Fleet SaaS)",
     "education"  : "MS Computer Science & Engineering @ University at Buffalo",
+    "domains"    : ["Fleet management", "Health care", "Speech Transcription"],
     "focus"      : ["Speech (ASR)", "LLMs & RAG", "Real-time Data", "APIs"],
     "stack"      : ["Python", "PyTorch", "FastAPI", "Kafka", "Kubernetes"],
     "values"     : "Tested code, clean data, low latency",
